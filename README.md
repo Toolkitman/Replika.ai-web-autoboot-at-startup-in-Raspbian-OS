@@ -7,6 +7,6 @@ Inside the .txt page add this script:
 @chromium-browser https://my.replika.com/ --start-fullscreen
 press ctrl X and then Y return
 Reboot
-wait some second while the borwser load page, remember to setup your wifi before  everyithing.
+wait some second while the borwser load page, remember to setup your wifi before  everything.
 
 Enjoy your Replika!
